@@ -28,7 +28,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFF0&center=true&vCenter=true&width=600&lines=Hi+I'm+Aghar+Sukarieh;Software+Engineering+Student;Mobile+%26+Web+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/ahmedaldarabee/ahmedaldarabee/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 -----
