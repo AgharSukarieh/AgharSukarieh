@@ -9,7 +9,7 @@
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
 
 📫 Reach me:  
-[![Gmail](https://img.shields.io/badge/-aghar%20at%20gmail-red?logo=gmail&logoColor=white)](mailto:aghar.sukarieh@gmail.com)
+[![Gmail](https://img.shields.io/badge/-aghar%20at%20gmail-red?logo=gmail&logoColor=white)](mailto:aghar4136@gmail.com)
 
 <!-- GitHub Stats -->
 ![Aghar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgharSukarieh&show_icons=true&theme=dark)
