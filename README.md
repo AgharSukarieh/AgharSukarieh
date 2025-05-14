@@ -36,25 +36,33 @@
 
 ### 🧠 Concepts I Work With
 
-- State Management (Provider, Bloc, GetX, etc.)
-- Software Architecture: **MVVM**, **MVC**, **MVP**
-- Backend Integration with Firebase
-- Clean Code & Modularization
+- 🔄 State Management (Provider, Bloc, GetX, etc.)  
+- 🧱 Software Architecture: **MVVM**, **MVC**, **MVP**  
+- ☁️ Firebase Backend Integration  
+- 🧼 Clean Code & Modularization
 
 ---
 
-### 📊 GitHub Stats
+### 🐛 Debugging Animation
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgharSukarieh&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <!-- ارفع هذا الملف في المستودع باسم bug-eater.gif -->
+  <img src="https://github.com/AgharSukarieh/AgharSukarieh/blob/main/bug-eater.gif?raw=true" alt="Worm Eating Bugs" width="300"/>
 </p>
 
+*دودة تتحرك باتجاه كلمة `BUGS`، تأكل منها حروفًا وتنتج كلمة `PROBLEM`، ثم تستمر في التهام المزيد بشكل متكرر.*
+
 ---
 
-### 📈 Contribution Graph
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AgharSukarieh&theme=github-compact" alt="Contribution Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AgharSukarieh&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgharSukarieh&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AgharSukarieh&theme=tokyonight"/>
 </p>
 
 ---
@@ -68,4 +76,12 @@
   <a href="https://github.com/AgharSukarieh">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <b>✨ Thanks for visiting my GitHub profile! ✨</b><br/>
+  <em>Feel free to explore my repositories and projects.<br/>
+  Let's connect and build something great together!</em>  
 </p>
