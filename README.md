@@ -41,16 +41,6 @@
 - ☁️ Firebase Backend Integration  
 - 🧼 Clean Code & Modularization
 
----
-
-### 🐛 Debugging Animation
-
-<p align="center">
-  <!-- ارفع هذا الملف في المستودع باسم bug-eater.gif -->
-  <img src="https://github.com/AgharSukarieh/AgharSukarieh/blob/main/bug-eater.gif?raw=true" alt="Worm Eating Bugs" width="300"/>
-</p>
-
-*دودة تتحرك باتجاه كلمة `BUGS`، تأكل منها حروفًا وتنتج كلمة `PROBLEM`، ثم تستمر في التهام المزيد بشكل متكرر.*
 
 ---
 
@@ -67,6 +57,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ffd700&center=true&vCenter=true&width=400&lines=✨+Thank+you+for+visiting+my+GitHub+profile!;Feel+free+to+explore+my+projects+and+connect+with+me✨" alt="Typing SVG Footer" />
+</p>
+
+---
+
 ### 📫 Contact Me
 
 <p align="center">
@@ -76,12 +72,4 @@
   <a href="https://github.com/AgharSukarieh">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <b>✨ Thanks for visiting my GitHub profile! ✨</b><br/>
-  <em>Feel free to explore my repositories and projects.<br/>
-  Let's connect and build something great together!</em>  
 </p>
