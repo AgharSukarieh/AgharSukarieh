@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFF0&center=true&vCenter=true&width=600&lines=👋+Hello,+I%27m+Aghar+Sukarieh;🎓+Software+Engineering+Student;💻+Mobile+%26+Web+Developer" alt="Introduction Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFF0&center=true&vCenter=true&width=500&lines=Hi+I'm+Aghar+Sukarieh;Software+Engineering+Student;Flutter+%7C+Dart+%7C+Java+%7C+Android+Dev;Web+%7C+Firebase+%7C+GitHub+%7C+Git;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 ---
@@ -95,3 +95,6 @@ I’m **Aghar Sukarieh**, a passionate **Software Engineering** student at *Al-B
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=400&lines=✨+Thank+you+for+visiting+my+profile!+✨" alt="Typing Footer" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFF0&center=true&vCenter=true&width=500&lines=+Thank+you+for+visiting+my+profile!+" alt="Typing SVG" />
+</p>
