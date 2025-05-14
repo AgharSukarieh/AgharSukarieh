@@ -1,6 +1,11 @@
-### Hi there 👋 I'm Aghar Sukarieh
-🚀 Software Engineering Student at Al-Balqa Applied University  
-💻 Passionate about Flutter, Dart, Java, Android, and Open Source  
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=435&height=70&lines=Hi+I'm+Aghar+Sukarieh;Software+Engineering+Student;Flutter+%7C+Android+%7C+Dart+%7C+Java" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+</p>
 
 🔧 Languages & Tools:
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
