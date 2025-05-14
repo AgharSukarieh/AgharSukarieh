@@ -6,55 +6,25 @@
 
 ### 👨‍💻 About Me
 
-🎓 I'm a **Software Engineering student** at *Al-Balqa Applied University*  
-💡 Passionate about **Mobile & Web Development**  
-📱 Experienced in building Android apps using **Flutter**, **Dart**, and **Java**  
-🌐 Knowledgeable in **HTML**, **PHP**, and **Firebase**  
-🛠️ I use **VS Code** and **Android Studio** as my main tools  
-🧠 Familiar with **State Management** and architectural patterns like **MVVM**, **MVC**, and **MVP**  
-📦 Actively using **Git** and **GitHub** for version control and collaboration
+🎓 **Software Engineering Student** @ Al-Balqa Applied University  
+💻 **Mobile Developer** specializing in Flutter & Android  
+🚀 **Tech Stack**: Dart • Flutter • Java • Firebase • HTML • PHP  
+🛠️ **Tools**: Android Studio • VS Code • Git • GitHub  
+📚 **Concepts**: MVVM • MVC • MVP • Clean Architecture • State Management  
 
 ---
 
-### 🚀 Languages, Frameworks & Tools
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,java,firebase,html,php,vscode,git,github" />
 </p>
 
 ---
 
-### 🧠 Concepts I Work With
 
-- 🔄 State Management (Provider, Bloc, GetX, etc.)  
-- 🧱 Software Architecture: **MVVM**, **MVC**, **MVP**  
-- ☁️ Firebase Backend Integration  
-- 🧼 Clean Code & Modularization
 
----
-
-### 🐛 Debugging Animation
-
-<p align="center">
-  <!-- ارفع هذا الملف في المستودع باسم bug-eater.gif -->
-  <img src="https://github.com/AgharSukarieh/AgharSukarieh/blob/main/bug-eater.gif?raw=true" alt="Worm Eating Bugs" width="300"/>
-</p>
-
-*دودة تتحرك باتجاه كلمة `BUGS`، تأكل الحروف وتُخرج كلمة `PROBLEM`، ثم تستمر في التهام المزيد بشكل متكرر.*
-
----
-
-### 📊 GitHub Insights
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AgharSukarieh&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
@@ -67,13 +37,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ffd700&center=true&vCenter=true&width=400&lines=✨+Thank+you+for+visiting+my+GitHub+profile!;Feel+free+to+explore+my+projects+and+connect+with+me✨" alt="Typing SVG Footer" />
-</p>
-
----
-
-### 📫 Contact Me
+### 📬 Let's Connect!
 
 <p align="center">
   <a href="mailto:agharsukarieh@gmail.com">
@@ -83,7 +47,9 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
------
+
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFF0&center=true&vCenter=true&width=500&lines=+Thank+you+for+visiting+my+profile!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+✌️;Keep+coding+🚀;Stay+awesome+😎" alt="Typing SVG Footer" />
 </p>
