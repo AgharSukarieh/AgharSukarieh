@@ -50,5 +50,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1100&color=00FFF0&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+GitHub+profile! " alt="Typing SVG Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1100&color=00FFF0&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub+profile! " alt="Typing SVG Footer" />
 </p>
