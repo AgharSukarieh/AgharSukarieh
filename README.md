@@ -4,97 +4,86 @@
 
 ---
 
-## 📖 Table of Contents
-1. [About Me](#about-me)
-2. [💼 Experience & Skills](#experience--skills)
-3. [🚀 Technologies](#technologies)
-4. [📂 Projects](#projects)
-5. [📈 GitHub Stats](#github-stats)
-6. [📫 Contact](#contact)
+### 👨‍💻 About Me
+
+🎓 I'm a **Software Engineering student** at *Al-Balqa Applied University*  
+💡 Passionate about **Mobile & Web Development**  
+📱 Experienced in building Android apps using **Flutter**, **Dart**, and **Java**  
+🌐 Knowledgeable in **HTML**, **PHP**, and **Firebase**  
+🛠️ I use **VS Code** and **Android Studio** as my main tools  
+🧠 Familiar with **State Management** and architectural patterns like **MVVM**, **MVC**, and **MVP**  
+📦 Actively using **Git** and **GitHub** for version control and collaboration
 
 ---
 
-## 👨‍💻 About Me
-
-I’m **Aghar Sukarieh**, a passionate **Software Engineering** student at *Al-Balqa Applied University*. I specialize in building responsive and performant mobile and web applications using modern technologies.
-
-- 🌱 Currently exploring **advanced Flutter patterns** and **state management** solutions
-- 🔭 Working on side projects to deepen my knowledge of **MVVM**, **MVC**, and **MVP** architectures
-- 🏆 Striving for clean, modular code and best practices
-
----
-
-## 💼 Experience & Skills
+### 🚀 Languages, Frameworks & Tools
 
 <p align="center">
-  <a href="https://github.com/AgharSukarieh?tab=repositories" target="_blank">🔗 View My Projects</a>
-</p>
-
-- **Languages:** Dart, Java, PHP, HTML, JavaScript  
-- **Mobile:** Flutter, Android SDK (Java)  
-- **Web:** HTML5, CSS3, PHP, Firebase  
-- **Tools:** Git, GitHub, VS Code, Android Studio  
-- **Patterns:** MVVM, MVC, MVP  
-- **State Management:** Provider, Bloc, GetX  
-- **Database & Backend:** Firebase (Firestore, Auth, Storage)
-
----
-
-## 🚀 Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 📂 Projects
+### 🧠 Concepts I Work With
 
-| Project | Description | Tech Stack |
-| ------- | ----------- | ---------- |
-| [My Portfolio](https://agharsukarieh.github.io/) | Personal portfolio website showcasing projects and blogs | HTML, CSS, JavaScript, Firebase |
-| [Flutter E-Commerce](https://github.com/AgharSukarieh/flutter-ecommerce) | Cross-platform shopping app with Firebase backend | Flutter, Dart, Firebase |
-| [Task Manager App](https://github.com/AgharSukarieh/task-manager) | Android task organizer with clean MVVM architecture | Android (Java), Room, LiveData |
-
-*For more projects, visit [my GitHub repositories](https://github.com/AgharSukarieh?tab=repositories).*  
+- 🔄 State Management (Provider, Bloc, GetX, etc.)  
+- 🧱 Software Architecture: **MVVM**, **MVC**, **MVP**  
+- ☁️ Firebase Backend Integration  
+- 🧼 Clean Code & Modularization
 
 ---
 
-## 📈 GitHub Stats
+### 🐛 Debugging Animation
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgharSukarieh&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgharSukarieh&theme=tokyonight&hide_border=true" width="49%" />
+  <!-- ارفع هذا الملف في المستودع باسم bug-eater.gif -->
+  <img src="https://github.com/AgharSukarieh/AgharSukarieh/blob/main/bug-eater.gif?raw=true" alt="Worm Eating Bugs" width="300"/>
+</p>
+
+*دودة تتحرك باتجاه كلمة `BUGS`، تأكل الحروف وتُخرج كلمة `PROBLEM`، ثم تستمر في التهام المزيد بشكل متكرر.*
+
+---
+
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AgharSukarieh&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgharSukarieh&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AgharSukarieh&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📫 Contact
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ffd700&center=true&vCenter=true&width=400&lines=✨+Thank+you+for+visiting+my+GitHub+profile!;Feel+free+to+explore+my+projects+and+connect+with+me✨" alt="Typing SVG Footer" />
+</p>
+
+---
+
+### 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:agharsukarieh@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:agharsukarieh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/agharsukarieh" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/AgharSukarieh" target="_blank" title="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/AgharSukarieh">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=400&lines=✨+Thank+you+for+visiting+my+profile!+✨" alt="Typing Footer" />
-</p>
-
+-----
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFF0&center=true&vCenter=true&width=500&lines=+Thank+you+for+visiting+my+profile!+" alt="Typing SVG" />
 </p>
