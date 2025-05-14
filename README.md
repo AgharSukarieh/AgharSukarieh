@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFF0&center=true&vCenter=true&width=500&lines=Hi+I'm+Aghar+Sukarieh;Software+Engineering+Student;Flutter+%7C+Dart+%7C+Java+%7C+Android+Dev;Web+%7C+Firebase+%7C+GitHub+%7C+Git;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFF0&center=true&vCenter=true&width=500&lines=Hi+I'm+Aghar+Sukarieh;Software+Engineering+Student; Flutter+%7C+Dart+%7C+Java+%7C+Android+Dev;Web+%7C+Firebase+%7C+GitHub+%7C+Git;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 ---
@@ -26,10 +26,7 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgharSukarieh&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgharSukarieh&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AgharSukarieh&theme=tokyonight"/>
@@ -50,6 +47,7 @@
 
 ---
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+✌️;Keep+coding+🚀;Stay+awesome+😎" alt="Typing SVG Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFF0&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!" alt="Typing SVG" />
 </p>
