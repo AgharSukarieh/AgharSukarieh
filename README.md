@@ -1,7 +1,3 @@
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1100&color=00FFF0&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub+profile! " alt="Typing SVG Footer" />
-</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFF0&center=true&vCenter=true&width=600&lines=Hi+I'm+Aghar+Sukarieh;Software+Engineering+Student;Mobile+%26+Web+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
@@ -35,4 +31,14 @@
   <a href="https://github.com/AgharSukarieh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
+
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AgharSukarieh&show_icons=true&theme=radical" alt="AgharSukarieh's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgharSukarieh&theme=radical" alt="AgharSukarieh's GitHub Streak"/>
+</p>
+
 
