@@ -77,13 +77,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgharSukarieh&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
----
 
-### 🐍 Contribution Snake
-
-![GitHub Snake](https://github.com/AgharSukarieh/AgharSukarieh/blob/output/github-contribution-grid-snake.svg)
-
----
-
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
